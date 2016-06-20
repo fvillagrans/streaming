@@ -9,11 +9,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node streaming.js"
   },
   "repository": {
     "type": "git",
-    "url": "xxx"
+    "url": "https://github.com/fvillagrans/streaming.git"
   },
   "author": "fvillagrans",
   "license": "ISC"
